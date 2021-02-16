@@ -1,2 +1,2 @@
-# Análise de dados com python
+# Análise de dados e aplicação de algoritmos de machine learning com python
 ***
